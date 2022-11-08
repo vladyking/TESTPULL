@@ -14,4 +14,11 @@ public class Template {
         Ant1 = ant;
     }
 
+    public String getAnt2() {
+        return Ant2;
+    }
+
+    public void setAnt2(String ant2) {
+        Ant2 = ant2;
+    }
 }

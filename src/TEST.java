@@ -5,5 +5,6 @@ public class TEST {
     }
 
     public TEST() {
+        System.out.println();
     }
 }
